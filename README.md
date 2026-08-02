@@ -33,7 +33,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="Python"
     title="Python"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -42,7 +42,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="Flutter"
     title="Flutter"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
  />
@@ -51,7 +51,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="Java"
     title="Java"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -60,7 +60,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="HTML"
     title="HTML"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -69,7 +69,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="CSS"
     title="CSS"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -78,7 +78,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="Javascript"
     title="JavaScript"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -87,7 +87,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="MySQL"
     title="MySQL"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -96,7 +96,16 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="left"
     alt="Firebase"
     title="Firebase"
-    width="30px"
+    width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+/>
+
+<img 
+    align="right"
+    alt="lofi_image"
+    title="lofi_image"
+    width="150px"
+    style="padding-right:10px;"
+    src="https://github.com/user-attachments/assets/dd96319c-c370-4a91-a530-7100dc76294b"  
 />
