@@ -2,7 +2,7 @@
 
 **`💻 Desenvolvedor FullStack` | `📊 Cientista de Dados` | `⚙️ Engenheiro da Computação`**
 
-Me chamo Thiago Garcia Vandil, tenho 25 anos e sou de Campinas - SP.
+Me chamo Thiago Garcia Vandil, tenho 25 anos e sou de Hortolândia - SP.
 
 Sou Engenheiro da Computação, com pós-graduação em Engenharia de Software e Business Intelligence, Big Data & Analytics - Ciência de Dados.
 Tenho interesse em desenvolvimento de software, ciência de dados, inteligência artificial, engenharia de dados e soluções voltadas para análise de dados.
