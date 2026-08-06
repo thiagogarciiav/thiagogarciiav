@@ -103,9 +103,25 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 
-<br>
-<br>
-<br>
+<br/>
+<br/>
+
+<h2 align="lef">📊 Estatísticas</h2>
+
+<p align="left">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=thiagogarciiav&layout=donut&langs_count=10&theme=jolly&custom_title=Tecnologias"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=thiagogarciiav&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly"
+    height="180"
+  />
+</p>
+  
+<br/>
+<br/>
+<br/>
 
 <p  align="center">
   <img 
