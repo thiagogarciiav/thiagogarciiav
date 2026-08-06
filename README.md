@@ -28,17 +28,6 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
 
 </p>
 
-<p align="center">
-  <img 
-    align="center"
-    alt="tribal_image"
-    title="tribal_image"
-    width="350px"
-    style="padding-right:10px;"
-    src="https://github.com/user-attachments/assets/9fc16855-c4b2-412e-8e48-5cb41a5eadb2"  
-/>
-</p>
-
 ---
 ## 🤖 Linguagens e Tecnologias
 
@@ -123,8 +112,8 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     align="center"
     alt="ganger_image"
     title="ganger_image"
-    width="250px"
+    width="420px"
     style="padding-right:10px;"
-    src="https://github.com/user-attachments/assets/ef7a04ea-8474-4828-82bf-1b26aa2414b2"  
+    src="https://github.com/user-attachments/assets/8cc04769-be63-4238-8fe6-2a91e3ad49d5"  
 />
 </p>
