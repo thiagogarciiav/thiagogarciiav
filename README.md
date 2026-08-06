@@ -114,11 +114,17 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 
-<img 
-    align="right"
+<br>
+<br>
+<br>
+
+<p  align="center">
+  <img 
+    align="center"
     alt="ganger_image"
     title="ganger_image"
     width="250px"
     style="padding-right:10px;"
-    src="https://github.com/user-attachments/assets/a6c78e14-fe98-4e86-b85c-58ed4b673ed4"  
+    src="https://github.com/user-attachments/assets/ef7a04ea-8474-4828-82bf-1b26aa2414b2"  
 />
+</p>
