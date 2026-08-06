@@ -28,6 +28,17 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
 
 </p>
 
+<p align="center">
+  <img 
+    align="center"
+    alt="tribal_image"
+    title="tribal_image"
+    width="350px"
+    style="padding-right:10px;"
+    src="https://github.com/user-attachments/assets/9fc16855-c4b2-412e-8e48-5cb41a5eadb2"  
+/>
+</p>
+
 ---
 ## 🤖 Linguagens e Tecnologias
 
