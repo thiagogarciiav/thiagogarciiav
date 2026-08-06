@@ -10,16 +10,16 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/thiagogarciia" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff">
+</a>
+
 <a href="mailto:thiagogarciiavandil@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff">
 </a>
 
 <a href="https://www.instagram.com/thiagogarciia._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff">
-</a>
-
-<a href="https://www.linkedin.com/in/thiagogarciia" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff">
 </a>
 
 <a href="https://wa.me/5519981180300" target="_blank">
