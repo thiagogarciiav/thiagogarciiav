@@ -8,22 +8,24 @@ Sou Engenheiro da Computação, com pós-graduação em Engenharia de Software e
 Tenho interesse em desenvolvimento de software, ciência de dados, inteligência artificial, engenharia de dados e soluções voltadas para análise de dados.
 Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplicações práticas, com foco em compartilhar conhecimento e acompanhar minha evolução profissional.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/thiagogarciia" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-        alt="LinkedIn"/>
-  </a>
-  <a href="mailto:thiagogv2001@outlook.com">
-    <img 
-        src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" 
-        alt="Outlook"/>
-  </a>
-  <a href="https://www.instagram.com/thiagogarciia._/" target="_blank">
-    <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-        alt="Instagram"/>
-  </a>
+<p align="center">
+
+<a href="mailto:thiagogarciiavandil@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff">
+</a>
+
+<a href="https://www.instagram.com/thiagogarciia._/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff">
+</a>
+
+<a href="https://www.linkedin.com/in/thiagogarciia" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff">
+</a>
+
+<a href="https://wa.me/5519981180300" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff">
+</a>
+
 </p>
 
 ---
@@ -103,9 +105,9 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
 
 <img 
     align="right"
-    alt="lofi_image"
-    title="lofi_image"
-    width="150px"
+    alt="ganger_image"
+    title="ganger_image"
+    width="250px"
     style="padding-right:10px;"
-    src="https://github.com/user-attachments/assets/dd96319c-c370-4a91-a530-7100dc76294b"  
+    src="https://github.com/user-attachments/assets/a6c78e14-fe98-4e86-b85c-58ed4b673ed4"  
 />
