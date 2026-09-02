@@ -106,6 +106,7 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
 <br/>
 <br/>
 
+
 <h2 align="lef">📊 Estatísticas</h2>
 
 <p align="left">
