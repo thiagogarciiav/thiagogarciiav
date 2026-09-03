@@ -112,11 +112,15 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
 <p align="left">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=thiagogarciiav&layout=compact&langs_count=10&theme=jolly&custom_title=Tecnologias"
-    height="180"
+    alt="GitHub' Tecnologies Stats"
+    height="200"
+    style="padding-right:10px;"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api?username=thiagogarciiav&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly"
-    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=thiagogarciiav&show_icons=true&include_all_commits=true&theme=jolly"
+    alt="GitHubStats"
+    height="200"
+    style="padding-right:10px;"
   />
 </p>
   
