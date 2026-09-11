@@ -48,6 +48,15 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
  />
+
+ <img
+    align="left"
+    alt="Dart"
+    title="Dart"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+ />
   
 <img 
     align="left"
