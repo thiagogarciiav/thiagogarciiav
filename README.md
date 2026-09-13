@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Thiago Garcia
 
-**`🗂️ Backoffice Analyst I`| `💻 Desenvolvedor FullStack` | `📊 Cientista de Dados` | `⚙️ Engenheiro da Computação`**
+**`🗂️ Backoffice Analyst I` | `💻 Desenvolvedor FullStack` | `📊 Cientista de Dados` | `⚙️ Engenheiro da Computação`**
 
 Me chamo Thiago Garcia Vandil, tenho 25 anos e sou de Hortolândia - SP.
 
