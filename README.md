@@ -1,4 +1,10 @@
-# 👨🏻‍💻 Thiago Garcia
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0854,100:9d4edd&height=140&section=header&text=Thiago%20Garcia%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB&fontSize=40&fontColor=ffffff"
+    alt="Header" 
+  />
+</p>
 
 **`🗂️ Backoffice Analyst I` | `💻 Desenvolvedor FullStack` | `📊 Cientista de Dados` | `⚙️ Engenheiro da Computação`**
 
@@ -28,7 +34,6 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
 
 </p>
 
----
 ## 🤖 Linguagens e Tecnologias
 
 <img
@@ -122,16 +127,21 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
   <img
     src="https://github-stats-extended.vercel.app/api?username=thiagogarciiav&show_icons=true&include_all_commits=true&theme=jolly"
     alt="GitHubStats"
-    height="165"
-    style="padding-right:10px;"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=thiagogarciiav&layout=compact&langs_count=12&theme=jolly&custom_title=Tecnologias"
-    alt="GitHub' Tecnologies Stats"
     height="200"
     style="padding-right:10px;"
   />
-</p>
+  <img 
+    src="https://streak-stats.demolab.com/?user=thiagogarciiav&theme=jolly" 
+    alt="GitHub Streak"
+    height="200"
+    style="padding-right:10px;"
+  />
+    <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=thiagogarciiav&layout=compact&langs_count=10&theme=jolly&custom_title=Tecnologias&card_width=250"
+    alt="GitHub' Tecnologies Stats"
+    height="195"
+    style="padding-right:10px;"
+  />
   
 <br/>
 <br/>
