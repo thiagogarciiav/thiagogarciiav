@@ -130,16 +130,16 @@ Este GitHub reúne projetos desenvolvidos para estudo, desafios pessoais e aplic
     height="200"
     style="padding-right:10px;"
   />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=thiagogarciiav&layout=compact&langs_count=10&theme=jolly&custom_title=Tecnologias&card_width=250"
+    alt="GitHub' Tecnologies Stats"
+    height="195"
+    style="padding-right:10px;"
+  />
   <img 
     src="https://streak-stats.demolab.com/?user=thiagogarciiav&theme=jolly" 
     alt="GitHub Streak"
     height="200"
-    style="padding-right:10px;"
-  />
-    <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=thiagogarciiav&layout=compact&langs_count=10&theme=jolly&custom_title=Tecnologias&card_width=250"
-    alt="GitHub' Tecnologies Stats"
-    height="195"
     style="padding-right:10px;"
   />
   
